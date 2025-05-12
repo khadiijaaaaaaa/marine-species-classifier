@@ -1,63 +1,63 @@
 annotation_id,concept_name
 /content/test_data/rois/1_1.png,Pandalidae
-/content/test_data/rois/2_2.png,Funiculina_species_unknown
+/content/test_data/rois/2_2.png,Funiculina
 /content/test_data/rois/2_3.png,Elasipodida
-/content/test_data/rois/2_4.png,Funiculina_species_unknown
-/content/test_data/rois/2_5.png,Funiculina_species_unknown
-/content/test_data/rois/2_6.png,Umbellula_species_unknown
+/content/test_data/rois/2_4.png,Funiculina
+/content/test_data/rois/2_5.png,Funiculina
+/content/test_data/rois/2_6.png,Umbellula
 /content/test_data/rois/2_7.png,Octopus rubescens
-/content/test_data/rois/2_8.png,Umbellula_species_unknown
-/content/test_data/rois/2_9.png,Funiculina_species_unknown
-/content/test_data/rois/2_10.png,Funiculina_species_unknown
+/content/test_data/rois/2_8.png,Umbellula
+/content/test_data/rois/2_9.png,Funiculina
+/content/test_data/rois/2_10.png,Funiculina
 /content/test_data/rois/2_11.png,Scleralcyonacea
-/content/test_data/rois/2_12.png,Funiculina_species_unknown
-/content/test_data/rois/2_13.png,Umbellula_species_unknown
-/content/test_data/rois/2_14.png,Sebastolobus_species_unknown
-/content/test_data/rois/2_15.png,Isosicyonis_species_unknown
-/content/test_data/rois/2_16.png,Isosicyonis_species_unknown
-/content/test_data/rois/2_17.png,Isosicyonis_species_unknown
-/content/test_data/rois/2_18.png,Isosicyonis_species_unknown
+/content/test_data/rois/2_12.png,Funiculina
+/content/test_data/rois/2_13.png,Umbellula
+/content/test_data/rois/2_14.png,Sebastolobus
+/content/test_data/rois/2_15.png,Isosicyonis
+/content/test_data/rois/2_16.png,Isosicyonis
+/content/test_data/rois/2_17.png,Isosicyonis
+/content/test_data/rois/2_18.png,Isosicyonis
 /content/test_data/rois/3_19.png,Paralomis multispina
 /content/test_data/rois/3_20.png,Paralomis multispina
-/content/test_data/rois/4_21.png,Munnopsidae_genus_unknown_species_unknown
-/content/test_data/rois/5_22.png,Ophiuroidea_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/6_23.png,Gastropoda_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/4_21.png,Munnopsidae
+/content/test_data/rois/5_22.png,Ophiuroidea
+/content/test_data/rois/6_23.png,Gastropoda
 /content/test_data/rois/7_24.png,Anthozoa
-/content/test_data/rois/7_25.png,Cerianthidae_genus_unknown_species_unknown
-/content/test_data/rois/7_26.png,Decapoda_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/8_27.png,Acanthoptilum_species_unknown
-/content/test_data/rois/8_28.png,Acanthoptilum_species_unknown
-/content/test_data/rois/8_29.png,Funiculina_species_unknown
-/content/test_data/rois/8_30.png,Serpulidae_genus_unknown_species_unknown
-/content/test_data/rois/8_31.png,Ophiuroidea_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/8_32.png,Ophiuroidea_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/8_33.png,Munnopsidae_genus_unknown_species_unknown
-/content/test_data/rois/8_34.png,Acanthoptilum_species_unknown
-/content/test_data/rois/9_35.png,Crinoidea_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/7_25.png,Cerianthidae
+/content/test_data/rois/7_26.png,Decapoda
+/content/test_data/rois/8_27.png,Acanthoptilum
+/content/test_data/rois/8_28.png,Acanthoptilum
+/content/test_data/rois/8_29.png,Funiculina
+/content/test_data/rois/8_30.png,Serpulidae
+/content/test_data/rois/8_31.png,Ophiuroidea
+/content/test_data/rois/8_32.png,Ophiuroidea
+/content/test_data/rois/8_33.png,Munnopsidae
+/content/test_data/rois/8_34.png,Acanthoptilum
+/content/test_data/rois/9_35.png,Crinoidea
 /content/test_data/rois/9_36.png,Psathyrometra
-/content/test_data/rois/10_37.png,Tunicata_species_unknown
+/content/test_data/rois/10_37.png,Tunicata
 /content/test_data/rois/10_38.png,Bacteria
 /content/test_data/rois/10_39.png,Porifera
-/content/test_data/rois/10_40.png,Tunicata_species_unknown
-/content/test_data/rois/10_41.png,Tunicata_species_unknown
-/content/test_data/rois/10_42.png,Tunicata_species_unknown
-/content/test_data/rois/10_43.png,Tunicata_species_unknown
-/content/test_data/rois/10_44.png,Cyanobacteria_class_unknown
-/content/test_data/rois/10_45.png,Tunicata_species_unknown
+/content/test_data/rois/10_40.png,Tunicata
+/content/test_data/rois/10_41.png,Tunicata
+/content/test_data/rois/10_42.png,Tunicata
+/content/test_data/rois/10_43.png,Tunicata
+/content/test_data/rois/10_44.png,Cyanobacteria
+/content/test_data/rois/10_45.png,Tunicata
 /content/test_data/rois/10_46.png,Pandalidae
-/content/test_data/rois/10_47.png,Zoantharia_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/10_48.png,Decapoda_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/10_47.png,Zoantharia
+/content/test_data/rois/10_48.png,Decapoda
 /content/test_data/rois/10_49.png,Pandalus
-/content/test_data/rois/10_50.png,Decapoda_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/10_50.png,Decapoda
 /content/test_data/rois/11_51.png,Liponema brevicorne
 /content/test_data/rois/11_52.png,Lithodidae
-/content/test_data/rois/12_53.png,Porifera_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/12_53.png,Porifera
 /content/test_data/rois/12_54.png,Porifera
 /content/test_data/rois/12_55.png,Sceptrulophora
-/content/test_data/rois/13_56.png,Decapoda_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/13_57.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown
+/content/test_data/rois/13_56.png,Decapoda
+/content/test_data/rois/13_57.png,Animalia
 /content/test_data/rois/13_58.png,Animalia
-/content/test_data/rois/14_59.png,Amphipoda_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/14_59.png,Amphipoda
 /content/test_data/rois/14_60.png,Holothuroidea
 /content/test_data/rois/14_61.png,Psolus squamatus
 /content/test_data/rois/14_62.png,Ptychogastria polaris
@@ -66,186 +66,186 @@ annotation_id,concept_name
 /content/test_data/rois/14_65.png,Psathyrometra fragilis
 /content/test_data/rois/15_66.png,Heterochone calyx
 /content/test_data/rois/15_67.png,Bacteria
-/content/test_data/rois/15_68.png,Rossellidae_genus_unknown_species_unknown
-/content/test_data/rois/15_69.png,Mycale_species_unknown
+/content/test_data/rois/15_68.png,Rossellidae
+/content/test_data/rois/15_69.png,Mycale
 /content/test_data/rois/15_70.png,Hexactinellida
-/content/test_data/rois/15_71.png,Rossellidae_genus_unknown_species_unknown
-/content/test_data/rois/15_72.png,Rossellidae_genus_unknown_species_unknown
-/content/test_data/rois/16_73.png,Peniagone_species_unknown
+/content/test_data/rois/15_71.png,Rossellidae
+/content/test_data/rois/15_72.png,Rossellidae
+/content/test_data/rois/16_73.png,Peniagone
 /content/test_data/rois/16_74.png,Benthocodon pedunculatus
 /content/test_data/rois/16_75.png,Peniagone
 /content/test_data/rois/16_76.png,Scotoplanes globosa
-/content/test_data/rois/16_77.png,Peniagone_species_unknown
-/content/test_data/rois/16_78.png,Peniagone_species_unknown
+/content/test_data/rois/16_77.png,Peniagone
+/content/test_data/rois/16_78.png,Peniagone
 /content/test_data/rois/16_79.png,Benthocodon pedunculatus
-/content/test_data/rois/16_80.png,Munnopsidae_genus_unknown_species_unknown
-/content/test_data/rois/17_81.png,Zoantharia_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/17_82.png,Hormathiidae_genus_unknown_species_unknown
-/content/test_data/rois/17_83.png,Scleractinia_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/17_84.png,Scleractinia_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/17_85.png,Cerianthidae_genus_unknown_species_unknown
-/content/test_data/rois/17_86.png,Rossellidae_genus_unknown_species_unknown
-/content/test_data/rois/17_87.png,Isosicyonis_species_unknown
+/content/test_data/rois/16_80.png,Munnopsidae
+/content/test_data/rois/17_81.png,Zoantharia
+/content/test_data/rois/17_82.png,Hormathiidae
+/content/test_data/rois/17_83.png,Scleractinia
+/content/test_data/rois/17_84.png,Scleractinia
+/content/test_data/rois/17_85.png,Cerianthidae
+/content/test_data/rois/17_86.png,Rossellidae
+/content/test_data/rois/17_87.png,Isosicyonis
 /content/test_data/rois/17_88.png,Psolus squamatus
 /content/test_data/rois/18_89.png,Animalia
 /content/test_data/rois/19_90.png,Heterochone calyx
-/content/test_data/rois/19_91.png,Rossellidae_genus_unknown
-/content/test_data/rois/19_92.png,Paragorgia_species_unknown
-/content/test_data/rois/19_93.png,Paragorgia_species_unknown
-/content/test_data/rois/19_94.png,Tunicata_species_unknown
-/content/test_data/rois/19_95.png,Paragorgia_species_unknown
-/content/test_data/rois/19_96.png,Farrea_species_unknown
+/content/test_data/rois/19_91.png,Rossellidae
+/content/test_data/rois/19_92.png,Paragorgia
+/content/test_data/rois/19_93.png,Paragorgia
+/content/test_data/rois/19_94.png,Tunicata
+/content/test_data/rois/19_95.png,Paragorgia
+/content/test_data/rois/19_96.png,Farrea
 /content/test_data/rois/19_97.png,Anthozoa
 /content/test_data/rois/19_98.png,Heterochone calyx
-/content/test_data/rois/20_99.png,Actiniaria_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/20_99.png,Actiniaria
 /content/test_data/rois/20_100.png,Pennatulidae
 /content/test_data/rois/20_101.png,Poecilosclerida
 /content/test_data/rois/20_102.png,Corallimorphus pilatus
-/content/test_data/rois/21_103.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/22_104.png,Acanthoptilum_species_unknown
-/content/test_data/rois/23_105.png,Staurocalyptus_species_unknown
-/content/test_data/rois/23_106.png,Porifera_class_unknown_order_unknown_family_unknown_genus_unknown
-/content/test_data/rois/23_107.png,Mycale_species_unknown
-/content/test_data/rois/23_108.png,Mycale_species_unknown
+/content/test_data/rois/21_103.png,Animalia
+/content/test_data/rois/22_104.png,Acanthoptilum
+/content/test_data/rois/23_105.png,Staurocalyptus
+/content/test_data/rois/23_106.png,Porifera
+/content/test_data/rois/23_107.png,Mycale
+/content/test_data/rois/23_108.png,Mycale
 /content/test_data/rois/23_109.png,Holothuroidea
-/content/test_data/rois/23_110.png,Porifera_class_unknown_order_unknown
-/content/test_data/rois/23_111.png,Gastropoda_order_unknown_family_unknown
-/content/test_data/rois/23_112.png,Mycale_species_unknown
-/content/test_data/rois/23_113.png,Staurocalyptus_species_unknown
+/content/test_data/rois/23_110.png,Porifera
+/content/test_data/rois/23_111.png,Gastropoda
+/content/test_data/rois/23_112.png,Mycale
+/content/test_data/rois/23_113.png,Staurocalyptus
 /content/test_data/rois/23_114.png,Sceptrulophora
 /content/test_data/rois/24_115.png,Strongylocentrotus fragilis
 /content/test_data/rois/24_116.png,Strongylocentrotus fragilis
 /content/test_data/rois/24_117.png,Strongylocentrotus fragilis
 /content/test_data/rois/24_118.png,Strongylocentrotus fragilis
-/content/test_data/rois/25_119.png,Brisingida_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/25_119.png,Brisingida
 /content/test_data/rois/26_120.png,Holothuroidea
-/content/test_data/rois/26_121.png,Porifera_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/27_122.png,Keratoisis_species_unknown
-/content/test_data/rois/28_123.png,Gastropoda_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/28_124.png,Asteroidea_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/26_121.png,Porifera
+/content/test_data/rois/27_122.png,Keratoisis
+/content/test_data/rois/28_123.png,Gastropoda
+/content/test_data/rois/28_124.png,Asteroidea
 /content/test_data/rois/29_125.png,Paelopatides confundens
-/content/test_data/rois/30_126.png,Peniagone_species_unknown
+/content/test_data/rois/30_126.png,Peniagone
 /content/test_data/rois/30_127.png,Holothuroidea
 /content/test_data/rois/31_128.png,Microstomus pacificus
 /content/test_data/rois/31_129.png,Heteropolypus ritteri
-/content/test_data/rois/31_130.png,Parastenella_species_unknown
-/content/test_data/rois/31_131.png,Actiniaria_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/31_130.png,Parastenella
+/content/test_data/rois/31_131.png,Actiniaria
 /content/test_data/rois/31_132.png,Heteropolypus ritteri
 /content/test_data/rois/32_133.png,Crinoidea
 /content/test_data/rois/33_134.png,Porifera
 /content/test_data/rois/33_135.png,Benthocodon pedunculatus
 /content/test_data/rois/34_136.png,Psolus squamatus
-/content/test_data/rois/34_137.png,Zoantharia_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/34_138.png,Zoantharia_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/34_139.png,Hormathiidae_genus_unknown_species_unknown
-/content/test_data/rois/34_140.png,Zoantharia_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/34_141.png,Scleractinia_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/34_137.png,Zoantharia
+/content/test_data/rois/34_138.png,Zoantharia
+/content/test_data/rois/34_139.png,Hormathiidae
+/content/test_data/rois/34_140.png,Zoantharia
+/content/test_data/rois/34_141.png,Scleractinia
 /content/test_data/rois/34_142.png,Psolus squamatus
-/content/test_data/rois/34_143.png,Zoantharia_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/35_144.png,Peniagone_species_unknown
+/content/test_data/rois/34_143.png,Zoantharia
+/content/test_data/rois/35_144.png,Peniagone
 /content/test_data/rois/36_145.png,Heterochone calyx
 /content/test_data/rois/36_146.png,Porifera
 /content/test_data/rois/36_147.png,Heterochone calyx
 /content/test_data/rois/36_148.png,Chionoecetes tanneri
 /content/test_data/rois/36_149.png,Paragorgia arborea
-/content/test_data/rois/37_150.png,Keratoisis_species_unknown
-/content/test_data/rois/37_151.png,Sebastolobus_species_unknown
-/content/test_data/rois/37_152.png,Chordata_class_unknown
-/content/test_data/rois/37_153.png,Keratoisis_species_unknown
-/content/test_data/rois/37_154.png,Paragorgia_species_unknown
-/content/test_data/rois/37_155.png,Hippasteria_species_unknown
+/content/test_data/rois/37_150.png,Keratoisis
+/content/test_data/rois/37_151.png,Sebastolobus
+/content/test_data/rois/37_152.png,Chordata
+/content/test_data/rois/37_153.png,Keratoisis
+/content/test_data/rois/37_154.png,Paragorgia
+/content/test_data/rois/37_155.png,Hippasteria
 /content/test_data/rois/38_156.png,Paragorgia arborea
 /content/test_data/rois/39_157.png,Microstomus pacificus
-/content/test_data/rois/39_158.png,Sebastolobus_species_unknown
+/content/test_data/rois/39_158.png,Sebastolobus
 /content/test_data/rois/39_159.png,Octopus rubescens
 /content/test_data/rois/39_160.png,Heteropolypus ritteri
-/content/test_data/rois/40_161.png,Keratoisis_species_unknown
+/content/test_data/rois/40_161.png,Keratoisis
 /content/test_data/rois/40_162.png,Psolus squamatus
 /content/test_data/rois/40_163.png,Isidella tentaculum
 /content/test_data/rois/40_164.png,Keratoisididae
 /content/test_data/rois/40_165.png,Heteropolypus ritteri
 /content/test_data/rois/40_166.png,Isosicyonis
-/content/test_data/rois/40_167.png,Hormathiidae_genus_unknown_species_unknown
-/content/test_data/rois/40_168.png,Farrea_species_unknown
+/content/test_data/rois/40_167.png,Hormathiidae
+/content/test_data/rois/40_168.png,Farrea
 /content/test_data/rois/40_169.png,Psathyrometra fragilis
-/content/test_data/rois/40_170.png,Paragorgia_species_unknown
-/content/test_data/rois/41_171.png,Scleractinia_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/40_170.png,Paragorgia
+/content/test_data/rois/41_171.png,Scleractinia
 /content/test_data/rois/41_172.png,Isidella tentaculum
-/content/test_data/rois/41_173.png,Scleractinia_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/41_173.png,Scleractinia
 /content/test_data/rois/42_174.png,Abyssocucumis abyssorum
-/content/test_data/rois/43_175.png,Decapoda_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/43_176.png,Ophiuroidea_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/43_177.png,Decapoda_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/43_175.png,Decapoda
+/content/test_data/rois/43_176.png,Ophiuroidea
+/content/test_data/rois/43_177.png,Decapoda
 /content/test_data/rois/43_178.png,Pannychia moseleyi
-/content/test_data/rois/43_179.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown
-/content/test_data/rois/43_180.png,Decapoda_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/43_181.png,Ophiuroidea_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/43_182.png,Asteroidea_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/43_179.png,Animalia
+/content/test_data/rois/43_180.png,Decapoda
+/content/test_data/rois/43_181.png,Ophiuroidea
+/content/test_data/rois/43_182.png,Asteroidea
 /content/test_data/rois/43_183.png,Malacostraca
 /content/test_data/rois/43_184.png,Anthozoa
 /content/test_data/rois/44_185.png,Decapoda
 /content/test_data/rois/45_186.png,Anthozoa
-/content/test_data/rois/46_187.png,Paragorgia_species_unknown
+/content/test_data/rois/46_187.png,Paragorgia
 /content/test_data/rois/46_188.png,Paragorgia arborea
 /content/test_data/rois/46_189.png,Paragorgia arborea
-/content/test_data/rois/46_190.png,Paragorgia_species_unknown
-/content/test_data/rois/46_191.png,Porifera_class_unknown
-/content/test_data/rois/46_192.png,Paragorgia_species_unknown
+/content/test_data/rois/46_190.png,Paragorgia
+/content/test_data/rois/46_191.png,Porifera
+/content/test_data/rois/46_192.png,Paragorgia
 /content/test_data/rois/46_193.png,Paragorgia
 /content/test_data/rois/46_194.png,Echinodermata
-/content/test_data/rois/46_195.png,Farrea_species_unknown
-/content/test_data/rois/46_196.png,Paragorgia_species_unknown
-/content/test_data/rois/46_197.png,Munidopsis_species_unknown
-/content/test_data/rois/46_198.png,Keratoisis_species_unknown
-/content/test_data/rois/46_199.png,Paragorgia_species_unknown
-/content/test_data/rois/46_200.png,Farrea_species_unknown
+/content/test_data/rois/46_195.png,Farrea
+/content/test_data/rois/46_196.png,Paragorgia
+/content/test_data/rois/46_197.png,Munidopsis
+/content/test_data/rois/46_198.png,Keratoisis
+/content/test_data/rois/46_199.png,Paragorgia
+/content/test_data/rois/46_200.png,Farrea
 /content/test_data/rois/46_201.png,Asbestopluma monticola
 /content/test_data/rois/46_202.png,Coralliidae
-/content/test_data/rois/46_203.png,Farrea_species_unknown
-/content/test_data/rois/46_204.png,Paragorgia_species_unknown
-/content/test_data/rois/46_205.png,Parastenella_species_unknown
+/content/test_data/rois/46_203.png,Farrea
+/content/test_data/rois/46_204.png,Paragorgia
+/content/test_data/rois/46_205.png,Parastenella
 /content/test_data/rois/46_206.png,Heterochone calyx
-/content/test_data/rois/46_207.png,Farrea_species_unknown
-/content/test_data/rois/46_208.png,Porifera_class_unknown_order_unknown_family_unknown_genus_unknown
-/content/test_data/rois/46_209.png,Porifera_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/46_207.png,Farrea
+/content/test_data/rois/46_208.png,Porifera
+/content/test_data/rois/46_209.png,Porifera
 /content/test_data/rois/47_210.png,Corallimorphus pilatus
 /content/test_data/rois/47_211.png,Animalia
-/content/test_data/rois/47_212.png,Peniagone_species_unknown
+/content/test_data/rois/47_212.png,Peniagone
 /content/test_data/rois/48_213.png,Benthocodon pedunculatus
-/content/test_data/rois/48_214.png,Peniagone_species_unknown
+/content/test_data/rois/48_214.png,Peniagone
 /content/test_data/rois/49_215.png,Paragorgia arborea
-/content/test_data/rois/49_216.png,Paragorgia_species_unknown
+/content/test_data/rois/49_216.png,Paragorgia
 /content/test_data/rois/50_217.png,Strongylocentrotus fragilis
 /content/test_data/rois/50_218.png,Corallimorphus pilatus
 /content/test_data/rois/50_219.png,Strongylocentrotus fragilis
-/content/test_data/rois/50_220.png,Ophiacanthidae_genus_unknown_species_unknown
+/content/test_data/rois/50_220.png,Ophiacanthidae
 /content/test_data/rois/50_221.png,Corallimorphus pilatus
-/content/test_data/rois/51_222.png,Heterocarpus_species_unknown
+/content/test_data/rois/51_222.png,Heterocarpus
 /content/test_data/rois/51_223.png,Decapoda
-/content/test_data/rois/51_224.png,Gastropoda_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/51_225.png,Heterocarpus_species_unknown
-/content/test_data/rois/51_226.png,Heterocarpus_species_unknown
-/content/test_data/rois/51_227.png,Heterocarpus_species_unknown
-/content/test_data/rois/51_228.png,Heterocarpus_species_unknown
-/content/test_data/rois/51_229.png,Heterocarpus_species_unknown
-/content/test_data/rois/51_230.png,Heterocarpus_species_unknown
-/content/test_data/rois/51_231.png,Decapoda_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/52_232.png,Hormathiidae_genus_unknown_species_unknown
+/content/test_data/rois/51_224.png,Gastropoda
+/content/test_data/rois/51_225.png,Heterocarpus
+/content/test_data/rois/51_226.png,Heterocarpus
+/content/test_data/rois/51_227.png,Heterocarpus
+/content/test_data/rois/51_228.png,Heterocarpus
+/content/test_data/rois/51_229.png,Heterocarpus
+/content/test_data/rois/51_230.png,Heterocarpus
+/content/test_data/rois/51_231.png,Decapoda
+/content/test_data/rois/52_232.png,Hormathiidae
 /content/test_data/rois/53_233.png,Paragorgia arborea
-/content/test_data/rois/54_234.png,Cerianthidae_genus_unknown_species_unknown
-/content/test_data/rois/55_235.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/56_236.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/54_234.png,Cerianthidae
+/content/test_data/rois/55_235.png,Animalia
+/content/test_data/rois/56_236.png,Animalia
 /content/test_data/rois/56_237.png,Abyssocucumis abyssorum
-/content/test_data/rois/57_238.png,Isididae_genus_unknown_species_unknown
-/content/test_data/rois/57_239.png,Asbestopluma_species_unknown
+/content/test_data/rois/57_238.png,Isididae
+/content/test_data/rois/57_239.png,Asbestopluma
 /content/test_data/rois/58_240.png,Animalia
 /content/test_data/rois/58_241.png,Decapoda
 /content/test_data/rois/59_242.png,Malacostraca
 /content/test_data/rois/59_243.png,Holothuroidea
 /content/test_data/rois/59_244.png,Umbellula
-/content/test_data/rois/60_245.png,Munidopsis_species_unknown
-/content/test_data/rois/61_246.png,Tunicata_species_unknown
-/content/test_data/rois/61_247.png,Zoantharia_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/60_245.png,Munidopsis
+/content/test_data/rois/61_246.png,Tunicata
+/content/test_data/rois/61_247.png,Zoantharia
 /content/test_data/rois/61_248.png,Decapoda
 /content/test_data/rois/62_249.png,Paelopatides confundens
 /content/test_data/rois/62_250.png,Scotoplanes globosa
@@ -253,68 +253,68 @@ annotation_id,concept_name
 /content/test_data/rois/64_252.png,Paralomis multispina
 /content/test_data/rois/64_253.png,Paralomis multispina
 /content/test_data/rois/65_254.png,Holothuroidea
-/content/test_data/rois/66_255.png,Serpulidae_genus_unknown_species_unknown
+/content/test_data/rois/66_255.png,Serpulidae
 /content/test_data/rois/66_256.png,Comatulida
-/content/test_data/rois/66_257.png,Serpulidae_genus_unknown_species_unknown
-/content/test_data/rois/66_258.png,Serpulidae_genus_unknown_species_unknown
-/content/test_data/rois/67_259.png,Actinernus_species_unknown
-/content/test_data/rois/67_260.png,Actinernus_species_unknown
-/content/test_data/rois/67_261.png,Actinernus_species_unknown
-/content/test_data/rois/67_262.png,Decapoda_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/67_263.png,Actinernus_species_unknown
+/content/test_data/rois/66_257.png,Serpulidae
+/content/test_data/rois/66_258.png,Serpulidae
+/content/test_data/rois/67_259.png,Actinernus
+/content/test_data/rois/67_260.png,Actinernus
+/content/test_data/rois/67_261.png,Actinernus
+/content/test_data/rois/67_262.png,Decapoda
+/content/test_data/rois/67_263.png,Actinernus
 /content/test_data/rois/67_264.png,Anthozoa
 /content/test_data/rois/67_265.png,Psolus squamatus
 /content/test_data/rois/68_266.png,Scotoplanes globosa
-/content/test_data/rois/69_267.png,Cerianthidae_genus_unknown_species_unknown
+/content/test_data/rois/69_267.png,Cerianthidae
 /content/test_data/rois/70_268.png,Psathyrometra fragilis
 /content/test_data/rois/70_269.png,Animalia
 /content/test_data/rois/70_270.png,Dendrochirotida
 /content/test_data/rois/71_271.png,Rathbunaster californicus
 /content/test_data/rois/71_272.png,Rathbunaster californicus
-/content/test_data/rois/72_273.png,Paragorgia_species_unknown
-/content/test_data/rois/73_274.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/73_275.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/73_276.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/74_277.png,Ophiacanthidae_genus_unknown_species_unknown
-/content/test_data/rois/74_278.png,Ophiuroidea_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/72_273.png,Paragorgia
+/content/test_data/rois/73_274.png,Animalia
+/content/test_data/rois/73_275.png,Animalia
+/content/test_data/rois/73_276.png,Animalia
+/content/test_data/rois/74_277.png,Ophiacanthidae
+/content/test_data/rois/74_278.png,Ophiuroidea
 /content/test_data/rois/75_279.png,Isosicyonis
-/content/test_data/rois/75_280.png,Scleractinia_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/75_281.png,Porifera_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/75_280.png,Scleractinia
+/content/test_data/rois/75_281.png,Porifera
 /content/test_data/rois/75_282.png,Rathbunaster californicus
 /content/test_data/rois/76_283.png,Scotoplanes globosa
-/content/test_data/rois/77_284.png,Asteroidea_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/78_285.png,Asteroidea_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/78_286.png,Hippasteria_species_unknown
-/content/test_data/rois/79_287.png,Decapoda_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/79_288.png,Decapoda_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/79_289.png,Decapoda_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/77_284.png,Asteroidea
+/content/test_data/rois/78_285.png,Asteroidea
+/content/test_data/rois/78_286.png,Hippasteria
+/content/test_data/rois/79_287.png,Decapoda
+/content/test_data/rois/79_288.png,Decapoda
+/content/test_data/rois/79_289.png,Decapoda
 /content/test_data/rois/80_290.png,Malacostraca
-/content/test_data/rois/81_291.png,Isididae_genus_unknown_species_unknown
+/content/test_data/rois/81_291.png,Isididae
 /content/test_data/rois/81_292.png,Keratoisis
 /content/test_data/rois/81_293.png,Isidella tentaculum
-/content/test_data/rois/82_294.png,Decapoda_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/82_295.png,Actiniaria_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/82_296.png,Hormathiidae_genus_unknown_species_unknown
-/content/test_data/rois/82_297.png,Decapoda_family_unknown_genus_unknown
-/content/test_data/rois/82_298.png,Isosicyonis_species_unknown
-/content/test_data/rois/82_299.png,Decapoda_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/82_294.png,Decapoda
+/content/test_data/rois/82_295.png,Actiniaria
+/content/test_data/rois/82_296.png,Hormathiidae
+/content/test_data/rois/82_297.png,Decapoda
+/content/test_data/rois/82_298.png,Isosicyonis
+/content/test_data/rois/82_299.png,Decapoda
 /content/test_data/rois/83_300.png,Psolus squamatus
-/content/test_data/rois/84_301.png,Munidopsis_species_unknown
-/content/test_data/rois/84_302.png,Munidopsis_species_unknown
+/content/test_data/rois/84_301.png,Munidopsis
+/content/test_data/rois/84_302.png,Munidopsis
 /content/test_data/rois/84_303.png,Malacostraca
 /content/test_data/rois/84_304.png,Munidopsidae
 /content/test_data/rois/85_305.png,Scleralcyonacea
 /content/test_data/rois/86_306.png,Chionoecetes tanneri
-/content/test_data/rois/86_307.png,Rossellidae_genus_unknown_species_unknown
+/content/test_data/rois/86_307.png,Rossellidae
 /content/test_data/rois/86_308.png,Heterochone calyx
-/content/test_data/rois/86_309.png,Farrea_species_unknown
-/content/test_data/rois/86_310.png,Paragorgia_species_unknown
+/content/test_data/rois/86_309.png,Farrea
+/content/test_data/rois/86_310.png,Paragorgia
 /content/test_data/rois/87_311.png,Scotoplanes globosa
-/content/test_data/rois/88_312.png,Amphipoda_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/89_313.png,Acanthoptilum_species_unknown
-/content/test_data/rois/90_314.png,Acanthoptilum_species_unknown
+/content/test_data/rois/88_312.png,Amphipoda
+/content/test_data/rois/89_313.png,Acanthoptilum
+/content/test_data/rois/90_314.png,Acanthoptilum
 /content/test_data/rois/90_315.png,Gadiformes
-/content/test_data/rois/91_316.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/91_316.png,Animalia
 /content/test_data/rois/92_317.png,Scotoplanes globosa
 /content/test_data/rois/92_318.png,Scotoplanes globosa
 /content/test_data/rois/93_319.png,Metridium farcimen
@@ -327,255 +327,255 @@ annotation_id,concept_name
 /content/test_data/rois/93_326.png,Metridium farcimen
 /content/test_data/rois/93_327.png,Animalia
 /content/test_data/rois/93_328.png,Sceptrulophora
-/content/test_data/rois/94_329.png,Asbestopluma_species_unknown
-/content/test_data/rois/94_330.png,Asbestopluma_species_unknown
-/content/test_data/rois/94_331.png,Ophiuroidea_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/95_332.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/95_333.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/96_334.png,Umbellula_species_unknown
-/content/test_data/rois/96_335.png,Munnopsidae_genus_unknown_species_unknown
-/content/test_data/rois/97_336.png,Asbestopluma_species_unknown
-/content/test_data/rois/97_337.png,Asbestopluma_species_unknown
-/content/test_data/rois/98_338.png,Asteroidea_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/99_339.png,Funiculina_species_unknown
-/content/test_data/rois/99_340.png,Decapoda_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/100_341.png,Actinernus_species_unknown
-/content/test_data/rois/100_342.png,Gastropoda_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/101_343.png,Munnopsidae_genus_unknown_species_unknown
-/content/test_data/rois/102_344.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/102_345.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/102_346.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/102_347.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/102_348.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/102_349.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/94_329.png,Asbestopluma
+/content/test_data/rois/94_330.png,Asbestopluma
+/content/test_data/rois/94_331.png,Ophiuroidea
+/content/test_data/rois/95_332.png,Animalia
+/content/test_data/rois/95_333.png,Animalia
+/content/test_data/rois/96_334.png,Umbellula
+/content/test_data/rois/96_335.png,Munnopsidae
+/content/test_data/rois/97_336.png,Asbestopluma
+/content/test_data/rois/97_337.png,Asbestopluma
+/content/test_data/rois/98_338.png,Asteroidea
+/content/test_data/rois/99_339.png,Funiculina
+/content/test_data/rois/99_340.png,Decapoda
+/content/test_data/rois/100_341.png,Actinernus
+/content/test_data/rois/100_342.png,Gastropoda
+/content/test_data/rois/101_343.png,Munnopsidae
+/content/test_data/rois/102_344.png,Animalia
+/content/test_data/rois/102_345.png,Animalia
+/content/test_data/rois/102_346.png,Animalia
+/content/test_data/rois/102_347.png,Animalia
+/content/test_data/rois/102_348.png,Animalia
+/content/test_data/rois/102_349.png,Animalia
 /content/test_data/rois/103_350.png,Crinoidea
-/content/test_data/rois/103_351.png,Asbestopluma_species_unknown
-/content/test_data/rois/104_352.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/104_353.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/105_354.png,Scleractinia_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/105_355.png,Gastropoda_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/103_351.png,Asbestopluma
+/content/test_data/rois/104_352.png,Animalia
+/content/test_data/rois/104_353.png,Animalia
+/content/test_data/rois/105_354.png,Scleractinia
+/content/test_data/rois/105_355.png,Gastropoda
 /content/test_data/rois/105_356.png,Psathyrometra fragilis
 /content/test_data/rois/105_357.png,Arthropoda
 /content/test_data/rois/105_358.png,Porifera
-/content/test_data/rois/106_359.png,Holothuroidea_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/106_360.png,Holothuroidea_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/106_359.png,Holothuroidea
+/content/test_data/rois/106_360.png,Holothuroidea
 /content/test_data/rois/107_361.png,Psolus squamatus
-/content/test_data/rois/107_362.png,Hormathiidae_genus_unknown_species_unknown
-/content/test_data/rois/108_363.png,Scleractinia_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/108_364.png,Zoantharia_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/108_365.png,Zoantharia_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/108_366.png,Scleractinia_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/108_367.png,Scleractinia_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/108_368.png,Zoantharia_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/107_362.png,Hormathiidae
+/content/test_data/rois/108_363.png,Scleractinia
+/content/test_data/rois/108_364.png,Zoantharia
+/content/test_data/rois/108_365.png,Zoantharia
+/content/test_data/rois/108_366.png,Scleractinia
+/content/test_data/rois/108_367.png,Scleractinia
+/content/test_data/rois/108_368.png,Zoantharia
 /content/test_data/rois/109_369.png,Heteropolypus ritteri
 /content/test_data/rois/109_370.png,Florometra serratissima
 /content/test_data/rois/109_371.png,Coralliidae
 /content/test_data/rois/109_372.png,Heteropolypus ritteri
 /content/test_data/rois/110_373.png,Corallimorphus pilatus
-/content/test_data/rois/111_374.png,Rossellidae_genus_unknown_species_unknown
-/content/test_data/rois/112_375.png,Decapoda_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/113_376.png,Serpulidae_genus_unknown_species_unknown
-/content/test_data/rois/113_377.png,Serpulidae_genus_unknown_species_unknown
-/content/test_data/rois/113_378.png,Serpulidae_genus_unknown_species_unknown
+/content/test_data/rois/111_374.png,Rossellidae
+/content/test_data/rois/112_375.png,Decapoda
+/content/test_data/rois/113_376.png,Serpulidae
+/content/test_data/rois/113_377.png,Serpulidae
+/content/test_data/rois/113_378.png,Serpulidae
 /content/test_data/rois/113_379.png,Paralomis multispina
-/content/test_data/rois/113_380.png,Serpulidae_genus_unknown_species_unknown
-/content/test_data/rois/113_381.png,Serpulidae_genus_unknown_species_unknown
-/content/test_data/rois/113_382.png,Serpulidae_genus_unknown_species_unknown
-/content/test_data/rois/113_383.png,Serpulidae_genus_unknown_species_unknown
-/content/test_data/rois/113_384.png,Cerianthidae_genus_unknown_species_unknown
+/content/test_data/rois/113_380.png,Serpulidae
+/content/test_data/rois/113_381.png,Serpulidae
+/content/test_data/rois/113_382.png,Serpulidae
+/content/test_data/rois/113_383.png,Serpulidae
+/content/test_data/rois/113_384.png,Cerianthidae
 /content/test_data/rois/114_385.png,Paragorgia arborea
-/content/test_data/rois/114_386.png,Asteroidea_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/114_387.png,Keratoisis_species_unknown
-/content/test_data/rois/115_388.png,Actinernus_species_unknown
-/content/test_data/rois/116_389.png,Ophiacanthidae_genus_unknown_species_unknown
-/content/test_data/rois/116_390.png,Amphipoda_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/114_386.png,Asteroidea
+/content/test_data/rois/114_387.png,Keratoisis
+/content/test_data/rois/115_388.png,Actinernus
+/content/test_data/rois/116_389.png,Ophiacanthidae
+/content/test_data/rois/116_390.png,Amphipoda
 /content/test_data/rois/117_391.png,Decapoda
-/content/test_data/rois/118_392.png,Asteroidea_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/118_392.png,Asteroidea
 /content/test_data/rois/119_393.png,Malacostraca
-/content/test_data/rois/120_394.png,Isosicyonis_species_unknown
-/content/test_data/rois/120_395.png,Sebastolobus_species_unknown
-/content/test_data/rois/120_396.png,Isosicyonis_species_unknown
-/content/test_data/rois/121_397.png,Sebastolobus_species_unknown
-/content/test_data/rois/122_398.png,Umbellula_species_unknown
+/content/test_data/rois/120_394.png,Isosicyonis
+/content/test_data/rois/120_395.png,Sebastolobus
+/content/test_data/rois/120_396.png,Isosicyonis
+/content/test_data/rois/121_397.png,Sebastolobus
+/content/test_data/rois/122_398.png,Umbellula
 /content/test_data/rois/123_399.png,Chionoecetes tanneri
-/content/test_data/rois/123_400.png,Actinopterygii_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/123_400.png,Actinopterygii
 /content/test_data/rois/124_401.png,Rathbunaster californicus
 /content/test_data/rois/124_402.png,Rathbunaster californicus
 /content/test_data/rois/125_403.png,Actiniaria
 /content/test_data/rois/126_404.png,Antedonidae
 /content/test_data/rois/127_405.png,Asbestopluma
 /content/test_data/rois/128_406.png,Paragorgia arborea
-/content/test_data/rois/128_407.png,Paragorgia_species_unknown
-/content/test_data/rois/129_408.png,Munidopsis_species_unknown
-/content/test_data/rois/130_409.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/130_410.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/130_411.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/130_412.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/131_413.png,Asteroidea_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/131_414.png,Actinopterygii_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/128_407.png,Paragorgia
+/content/test_data/rois/129_408.png,Munidopsis
+/content/test_data/rois/130_409.png,Animalia
+/content/test_data/rois/130_410.png,Animalia
+/content/test_data/rois/130_411.png,Animalia
+/content/test_data/rois/130_412.png,Animalia
+/content/test_data/rois/131_413.png,Asteroidea
+/content/test_data/rois/131_414.png,Actinopterygii
 /content/test_data/rois/132_415.png,Pandalus
-/content/test_data/rois/132_416.png,Paragorgia_species_unknown
+/content/test_data/rois/132_416.png,Paragorgia
 /content/test_data/rois/132_417.png,Pandalus ampla
-/content/test_data/rois/133_418.png,Tunicata_species_unknown
-/content/test_data/rois/134_419.png,Isididae_genus_unknown_species_unknown
-/content/test_data/rois/135_420.png,Paragorgia_species_unknown
-/content/test_data/rois/136_421.png,Sebastolobus_species_unknown
+/content/test_data/rois/133_418.png,Tunicata
+/content/test_data/rois/134_419.png,Isididae
+/content/test_data/rois/135_420.png,Paragorgia
+/content/test_data/rois/136_421.png,Sebastolobus
 /content/test_data/rois/136_422.png,Echinodermata
 /content/test_data/rois/137_423.png,Liponema brevicorne
-/content/test_data/rois/137_424.png,Sebastolobus_species_unknown
-/content/test_data/rois/138_425.png,Scotoplanes_species_unknown
-/content/test_data/rois/139_426.png,Actiniaria_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/139_427.png,Asteroidea_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/139_428.png,Actiniaria_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/137_424.png,Sebastolobus
+/content/test_data/rois/138_425.png,Scotoplanes
+/content/test_data/rois/139_426.png,Actiniaria
+/content/test_data/rois/139_427.png,Asteroidea
+/content/test_data/rois/139_428.png,Actiniaria
 /content/test_data/rois/140_429.png,Paralomis multispina
 /content/test_data/rois/140_430.png,Cnidaria
 /content/test_data/rois/141_431.png,Rathbunaster californicus
 /content/test_data/rois/141_432.png,Sebastes diploproa
 /content/test_data/rois/142_433.png,Chorilia longipes
-/content/test_data/rois/142_434.png,Sebastolobus_species_unknown
+/content/test_data/rois/142_434.png,Sebastolobus
 /content/test_data/rois/142_435.png,Corallimorphus pilatus
 /content/test_data/rois/143_436.png,Psathyrometra fragilis
-/content/test_data/rois/143_437.png,Isididae_genus_unknown_species_unknown
-/content/test_data/rois/143_438.png,Paragorgia_species_unknown
-/content/test_data/rois/143_439.png,Funiculina_species_unknown
-/content/test_data/rois/143_440.png,Porifera_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/143_437.png,Isididae
+/content/test_data/rois/143_438.png,Paragorgia
+/content/test_data/rois/143_439.png,Funiculina
+/content/test_data/rois/143_440.png,Porifera
 /content/test_data/rois/143_441.png,Elasipodida
-/content/test_data/rois/143_442.png,Porifera_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/143_443.png,Brisingida_family_unknown
-/content/test_data/rois/143_444.png,Holothuroidea_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/144_445.png,Asbestopluma_species_unknown
-/content/test_data/rois/145_446.png,Keratoisis_species_unknown
-/content/test_data/rois/146_447.png,Holothuroidea_order_unknown_family_unknown_genus_unknown
+/content/test_data/rois/143_442.png,Porifera
+/content/test_data/rois/143_443.png,Brisingida
+/content/test_data/rois/143_444.png,Holothuroidea
+/content/test_data/rois/144_445.png,Asbestopluma
+/content/test_data/rois/145_446.png,Keratoisis
+/content/test_data/rois/146_447.png,Holothuroidea
 /content/test_data/rois/146_448.png,Scotoplanes globosa
 /content/test_data/rois/147_449.png,Malacalcyonacea
-/content/test_data/rois/148_450.png,Sebastolobus_species_unknown
-/content/test_data/rois/148_451.png,Actinopterygii_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/148_452.png,Sebastolobus_species_unknown
-/content/test_data/rois/149_453.png,Holothuroidea_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/150_454.png,Actiniaria_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/151_455.png,Amphipoda_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/151_456.png,Amphipoda_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/148_450.png,Sebastolobus
+/content/test_data/rois/148_451.png,Actinopterygii
+/content/test_data/rois/148_452.png,Sebastolobus
+/content/test_data/rois/149_453.png,Holothuroidea
+/content/test_data/rois/150_454.png,Actiniaria
+/content/test_data/rois/151_455.png,Amphipoda
+/content/test_data/rois/151_456.png,Amphipoda
 /content/test_data/rois/151_457.png,Asteroidea
-/content/test_data/rois/151_458.png,Isosicyonis_species_unknown
-/content/test_data/rois/152_459.png,Vesicomyidae_genus_unknown_species_unknown
-/content/test_data/rois/152_460.png,Porifera_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/152_461.png,Vesicomyidae_genus_unknown_species_unknown
-/content/test_data/rois/153_462.png,Munnopsidae_genus_unknown_species_unknown
+/content/test_data/rois/151_458.png,Isosicyonis
+/content/test_data/rois/152_459.png,Vesicomyidae
+/content/test_data/rois/152_460.png,Porifera
+/content/test_data/rois/152_461.png,Vesicomyidae
+/content/test_data/rois/153_462.png,Munnopsidae
 /content/test_data/rois/154_463.png,Pandalus ampla
-/content/test_data/rois/154_464.png,Tunicata_species_unknown
+/content/test_data/rois/154_464.png,Tunicata
 /content/test_data/rois/154_465.png,Pandalus ampla
 /content/test_data/rois/155_466.png,Octopus rubescens
-/content/test_data/rois/155_467.png,Asteroidea_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/155_468.png,Asteroidea_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/155_467.png,Asteroidea
+/content/test_data/rois/155_468.png,Asteroidea
 /content/test_data/rois/156_469.png,Comatulida
 /content/test_data/rois/157_470.png,Paelopatides confundens
 /content/test_data/rois/158_471.png,Benthocodon pedunculatus
 /content/test_data/rois/159_472.png,Pyrosoma atlanticum
-/content/test_data/rois/160_473.png,Tunicata_species_unknown
+/content/test_data/rois/160_473.png,Tunicata
 /content/test_data/rois/161_474.png,Pennatula phosphorea
-/content/test_data/rois/162_475.png,Paragorgia_species_unknown
-/content/test_data/rois/163_476.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/164_477.png,Munnopsidae_genus_unknown_species_unknown
-/content/test_data/rois/165_478.png,Umbellula_species_unknown
+/content/test_data/rois/162_475.png,Paragorgia
+/content/test_data/rois/163_476.png,Animalia
+/content/test_data/rois/164_477.png,Munnopsidae
+/content/test_data/rois/165_478.png,Umbellula
 /content/test_data/rois/165_479.png,Pennatula phosphorea
 /content/test_data/rois/165_480.png,Pennatula phosphorea
 /content/test_data/rois/165_481.png,Holothuroidea
 /content/test_data/rois/165_482.png,Pennatula phosphorea
 /content/test_data/rois/165_483.png,Pennatula phosphorea
 /content/test_data/rois/165_484.png,Funiculina
-/content/test_data/rois/165_485.png,Umbellula_species_unknown
+/content/test_data/rois/165_485.png,Umbellula
 /content/test_data/rois/165_486.png,Pennatula phosphorea
 /content/test_data/rois/165_487.png,Scleralcyonacea
-/content/test_data/rois/166_488.png,Paragorgia_species_unknown
-/content/test_data/rois/166_489.png,Keratoisis_species_unknown
+/content/test_data/rois/166_488.png,Paragorgia
+/content/test_data/rois/166_489.png,Keratoisis
 /content/test_data/rois/166_490.png,Isidella tentaculum
-/content/test_data/rois/166_491.png,Hexactinellida_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/166_492.png,Keratoisis_species_unknown
-/content/test_data/rois/166_493.png,Keratoisis_species_unknown
-/content/test_data/rois/166_494.png,Keratoisis_species_unknown
+/content/test_data/rois/166_491.png,Hexactinellida
+/content/test_data/rois/166_492.png,Keratoisis
+/content/test_data/rois/166_493.png,Keratoisis
+/content/test_data/rois/166_494.png,Keratoisis
 /content/test_data/rois/166_495.png,Porifera
 /content/test_data/rois/167_496.png,Animalia
 /content/test_data/rois/167_497.png,Pandalus platyceros
-/content/test_data/rois/168_498.png,Ophiuroidea_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/168_499.png,Ophiuroidea_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/168_498.png,Ophiuroidea
+/content/test_data/rois/168_499.png,Ophiuroidea
 /content/test_data/rois/168_500.png,Chionoecetes tanneri
-/content/test_data/rois/169_501.png,Parastenella_species_unknown
+/content/test_data/rois/169_501.png,Parastenella
 /content/test_data/rois/170_502.png,Chorilia longipes
-/content/test_data/rois/170_503.png,Sebastes_species_unknown
-/content/test_data/rois/170_504.png,Porifera_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/170_503.png,Sebastes
+/content/test_data/rois/170_504.png,Porifera
 /content/test_data/rois/171_505.png,Scotoplanes globosa
-/content/test_data/rois/171_506.png,Holothuroidea_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/172_507.png,Parastenella_species_unknown
+/content/test_data/rois/171_506.png,Holothuroidea
+/content/test_data/rois/172_507.png,Parastenella
 /content/test_data/rois/173_508.png,Chorilia longipes
 /content/test_data/rois/173_509.png,Decapoda
-/content/test_data/rois/174_510.png,Acanthoptilum_species_unknown
-/content/test_data/rois/175_511.png,Acanthoptilum_species_unknown
+/content/test_data/rois/174_510.png,Acanthoptilum
+/content/test_data/rois/175_511.png,Acanthoptilum
 /content/test_data/rois/176_512.png,Paralomis multispina
-/content/test_data/rois/176_513.png,Lithodidae_genus_unknown_species_unknown
-/content/test_data/rois/176_514.png,Lithodidae_genus_unknown_species_unknown
-/content/test_data/rois/176_515.png,Lithodidae_genus_unknown_species_unknown
+/content/test_data/rois/176_513.png,Lithodidae
+/content/test_data/rois/176_514.png,Lithodidae
+/content/test_data/rois/176_515.png,Lithodidae
 /content/test_data/rois/177_516.png,Pyrosoma atlanticum
-/content/test_data/rois/178_517.png,Holothuroidea_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/179_518.png,Holothuroidea_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/179_519.png,Holothuroidea_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/178_517.png,Holothuroidea
+/content/test_data/rois/179_518.png,Holothuroidea
+/content/test_data/rois/179_519.png,Holothuroidea
 /content/test_data/rois/180_520.png,Anthozoa
 /content/test_data/rois/181_521.png,Merluccius
 /content/test_data/rois/181_522.png,Anthozoa
-/content/test_data/rois/181_523.png,Hormathiidae_genus_unknown_species_unknown
+/content/test_data/rois/181_523.png,Hormathiidae
 /content/test_data/rois/182_524.png,Chorilia longipes
 /content/test_data/rois/183_525.png,Scotoplanes globosa
 /content/test_data/rois/184_526.png,Isidella tentaculum
 /content/test_data/rois/185_527.png,Echinodermata
 /content/test_data/rois/186_528.png,Echinodermata
 /content/test_data/rois/186_529.png,Echinodermata
-/content/test_data/rois/186_530.png,Gastropoda_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/186_530.png,Gastropoda
 /content/test_data/rois/186_531.png,Animalia
-/content/test_data/rois/187_532.png,Actinernus_species_unknown
-/content/test_data/rois/187_533.png,Actinernus_species_unknown
+/content/test_data/rois/187_532.png,Actinernus
+/content/test_data/rois/187_533.png,Actinernus
 /content/test_data/rois/188_534.png,Florometra serratissima
 /content/test_data/rois/189_535.png,Isidella tentaculum
-/content/test_data/rois/189_536.png,Porifera_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/189_536.png,Porifera
 /content/test_data/rois/189_537.png,Scleralcyonacea
 /content/test_data/rois/190_538.png,Chorilia longipes
-/content/test_data/rois/191_539.png,Actinopterygii_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/191_539.png,Actinopterygii
 /content/test_data/rois/192_540.png,Actiniaria
-/content/test_data/rois/193_541.png,Ophiuroidea_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/193_541.png,Ophiuroidea
 /content/test_data/rois/193_542.png,Animalia
 /content/test_data/rois/194_543.png,Chorilia longipes
-/content/test_data/rois/194_544.png,Parastenella_species_unknown
+/content/test_data/rois/194_544.png,Parastenella
 /content/test_data/rois/194_545.png,Porifera
 /content/test_data/rois/195_546.png,Animalia
-/content/test_data/rois/196_547.png,Actinopterygii_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/196_547.png,Actinopterygii
 /content/test_data/rois/197_548.png,Benthocodon pedunculatus
-/content/test_data/rois/198_549.png,Acanthoptilum_species_unknown
-/content/test_data/rois/198_550.png,Acanthoptilum_species_unknown
-/content/test_data/rois/198_551.png,Acanthoptilum_species_unknown
-/content/test_data/rois/198_552.png,Acanthoptilum_species_unknown
+/content/test_data/rois/198_549.png,Acanthoptilum
+/content/test_data/rois/198_550.png,Acanthoptilum
+/content/test_data/rois/198_551.png,Acanthoptilum
+/content/test_data/rois/198_552.png,Acanthoptilum
 /content/test_data/rois/199_553.png,Pennatulacea
-/content/test_data/rois/199_554.png,Acanthoptilum_species_unknown
+/content/test_data/rois/199_554.png,Acanthoptilum
 /content/test_data/rois/199_555.png,Animalia
 /content/test_data/rois/200_556.png,Chordata
 /content/test_data/rois/200_557.png,Pyrosoma atlanticum
 /content/test_data/rois/200_558.png,Metridium farcimen
 /content/test_data/rois/201_559.png,Chionoecetes tanneri
-/content/test_data/rois/202_560.png,Chordata_class_unknown
-/content/test_data/rois/203_561.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/204_562.png,Decapoda_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/202_560.png,Chordata
+/content/test_data/rois/203_561.png,Animalia
+/content/test_data/rois/204_562.png,Decapoda
 /content/test_data/rois/205_563.png,Sebastes
-/content/test_data/rois/205_564.png,Umbellula_species_unknown
+/content/test_data/rois/205_564.png,Umbellula
 /content/test_data/rois/205_565.png,Rathbunaster californicus
 /content/test_data/rois/205_566.png,Rathbunaster californicus
-/content/test_data/rois/205_567.png,Umbellula_species_unknown
+/content/test_data/rois/205_567.png,Umbellula
 /content/test_data/rois/206_568.png,Octopus rubescens
 /content/test_data/rois/206_569.png,Octopus rubescens
 /content/test_data/rois/206_570.png,Pandalus platyceros
 /content/test_data/rois/206_571.png,Mollusca
 /content/test_data/rois/206_572.png,Octopus rubescens
-/content/test_data/rois/207_573.png,Cyanobacteria_class_unknown
+/content/test_data/rois/207_573.png,Cyanobacteria
 /content/test_data/rois/208_574.png,Chorilia longipes
 /content/test_data/rois/209_575.png,Chorilia longipes
 /content/test_data/rois/209_576.png,Chorilia longipes
-/content/test_data/rois/210_577.png,Munnopsidae_genus_unknown_species_unknown
+/content/test_data/rois/210_577.png,Munnopsidae
 /content/test_data/rois/211_578.png,Sebastes diploproa
 /content/test_data/rois/212_579.png,Pandalus platyceros
 /content/test_data/rois/213_580.png,Gersemia juliepackardae
@@ -584,7 +584,7 @@ annotation_id,concept_name
 /content/test_data/rois/214_583.png,Benthocodon pedunculatus
 /content/test_data/rois/215_584.png,Benthocodon pedunculatus
 /content/test_data/rois/216_585.png,Sebastes
-/content/test_data/rois/217_586.png,Animalia_phylum_unknown
+/content/test_data/rois/217_586.png,Animalia
 /content/test_data/rois/218_587.png,Benthocodon pedunculatus
 /content/test_data/rois/218_588.png,Benthocodon pedunculatus
 /content/test_data/rois/218_589.png,Benthocodon pedunculatus
@@ -593,52 +593,52 @@ annotation_id,concept_name
 /content/test_data/rois/219_592.png,Paelopatides confundens
 /content/test_data/rois/220_593.png,Paelopatides confundens
 /content/test_data/rois/220_594.png,Paelopatides confundens
-/content/test_data/rois/221_595.png,Brisingida_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/222_596.png,Tunicata_species_unknown
-/content/test_data/rois/222_597.png,Umbellula_species_unknown
+/content/test_data/rois/221_595.png,Brisingida
+/content/test_data/rois/222_596.png,Tunicata
+/content/test_data/rois/222_597.png,Umbellula
 /content/test_data/rois/222_598.png,Venerida
-/content/test_data/rois/223_599.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/223_599.png,Animalia
 /content/test_data/rois/224_600.png,Ptychogastria polaris
 /content/test_data/rois/225_601.png,Florometra serratissima
 /content/test_data/rois/225_602.png,Florometra serratissima
-/content/test_data/rois/226_603.png,Delectopecten_species_unknown
-/content/test_data/rois/227_604.png,Acanthoptilum_species_unknown
-/content/test_data/rois/227_605.png,Acanthoptilum_species_unknown
-/content/test_data/rois/228_606.png,Parastenella_species_unknown
+/content/test_data/rois/226_603.png,Delectopecten
+/content/test_data/rois/227_604.png,Acanthoptilum
+/content/test_data/rois/227_605.png,Acanthoptilum
+/content/test_data/rois/228_606.png,Parastenella
 /content/test_data/rois/228_607.png,Chionoecetes tanneri
 /content/test_data/rois/229_608.png,Benthocodon pedunculatus
-/content/test_data/rois/230_609.png,Umbellula_species_unknown
-/content/test_data/rois/230_610.png,Umbellula_species_unknown
+/content/test_data/rois/230_609.png,Umbellula
+/content/test_data/rois/230_610.png,Umbellula
 /content/test_data/rois/231_611.png,Ptychogastria polaris
-/content/test_data/rois/231_612.png,Delectopecten_species_unknown
-/content/test_data/rois/231_613.png,Serpulidae_genus_unknown_species_unknown
+/content/test_data/rois/231_612.png,Delectopecten
+/content/test_data/rois/231_613.png,Serpulidae
 /content/test_data/rois/231_614.png,Ptychogastria polaris
 /content/test_data/rois/231_615.png,Ptychogastria polaris
-/content/test_data/rois/231_616.png,Delectopecten_species_unknown
-/content/test_data/rois/231_617.png,Delectopecten_species_unknown
-/content/test_data/rois/231_618.png,Delectopecten_species_unknown
-/content/test_data/rois/231_619.png,Delectopecten_species_unknown
-/content/test_data/rois/231_620.png,Delectopecten_species_unknown
-/content/test_data/rois/231_621.png,Delectopecten_species_unknown
-/content/test_data/rois/231_622.png,Delectopecten_species_unknown
+/content/test_data/rois/231_616.png,Delectopecten
+/content/test_data/rois/231_617.png,Delectopecten
+/content/test_data/rois/231_618.png,Delectopecten
+/content/test_data/rois/231_619.png,Delectopecten
+/content/test_data/rois/231_620.png,Delectopecten
+/content/test_data/rois/231_621.png,Delectopecten
+/content/test_data/rois/231_622.png,Delectopecten
 /content/test_data/rois/232_623.png,Benthocodon pedunculatus
 /content/test_data/rois/232_624.png,Animalia
 /content/test_data/rois/233_625.png,Chionoecetes tanneri
 /content/test_data/rois/234_626.png,Strongylocentrotus fragilis
-/content/test_data/rois/235_627.png,Tunicata_species_unknown
+/content/test_data/rois/235_627.png,Tunicata
 /content/test_data/rois/236_628.png,Psolus squamatus
 /content/test_data/rois/237_629.png,Liponema brevicorne
-/content/test_data/rois/238_630.png,Holothuroidea_order_unknown
-/content/test_data/rois/238_631.png,Holothuroidea_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/239_632.png,Brisingida_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/240_633.png,Umbellula_species_unknown
-/content/test_data/rois/241_634.png,Heterocarpus_species_unknown
-/content/test_data/rois/242_635.png,Chordata_class_unknown
+/content/test_data/rois/238_630.png,Holothuroidea
+/content/test_data/rois/238_631.png,Holothuroidea
+/content/test_data/rois/239_632.png,Brisingida
+/content/test_data/rois/240_633.png,Umbellula
+/content/test_data/rois/241_634.png,Heterocarpus
+/content/test_data/rois/242_635.png,Chordata
 /content/test_data/rois/243_636.png,Abyssocucumis abyssorum
 /content/test_data/rois/244_637.png,Malacostraca
-/content/test_data/rois/244_638.png,Vesicomyidae_genus_unknown_species_unknown
-/content/test_data/rois/244_639.png,Zoantharia_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/244_640.png,Vesicomyidae_genus_unknown_species_unknown
+/content/test_data/rois/244_638.png,Vesicomyidae
+/content/test_data/rois/244_639.png,Zoantharia
+/content/test_data/rois/244_640.png,Vesicomyidae
 /content/test_data/rois/245_641.png,Gersemia juliepackardae
 /content/test_data/rois/245_642.png,Gersemia juliepackardae
 /content/test_data/rois/245_643.png,Gersemia juliepackardae
@@ -647,130 +647,130 @@ annotation_id,concept_name
 /content/test_data/rois/245_646.png,Gersemia juliepackardae
 /content/test_data/rois/245_647.png,Gersemia juliepackardae
 /content/test_data/rois/245_648.png,Gersemia juliepackardae
-/content/test_data/rois/246_649.png,Farrea_species_unknown
+/content/test_data/rois/246_649.png,Farrea
 /content/test_data/rois/247_650.png,Decapoda
 /content/test_data/rois/247_651.png,Corallimorphus pilatus
-/content/test_data/rois/248_652.png,Holothuroidea_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/248_652.png,Holothuroidea
 /content/test_data/rois/249_653.png,Paelopatides confundens
 /content/test_data/rois/249_654.png,Comatulida
-/content/test_data/rois/249_655.png,Chordata_class_unknown
-/content/test_data/rois/250_656.png,Amphipoda_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/251_657.png,Decapoda_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/249_655.png,Chordata
+/content/test_data/rois/250_656.png,Amphipoda
+/content/test_data/rois/251_657.png,Decapoda
 /content/test_data/rois/252_658.png,Animalia
 /content/test_data/rois/252_659.png,Decapoda
 /content/test_data/rois/252_660.png,Echinodermata
-/content/test_data/rois/252_661.png,Zoantharia_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/252_661.png,Zoantharia
 /content/test_data/rois/252_662.png,Comatulida
 /content/test_data/rois/252_663.png,Comatulida
 /content/test_data/rois/252_664.png,Florometra serratissima
-/content/test_data/rois/252_665.png,Cerianthidae_genus_unknown
+/content/test_data/rois/252_665.png,Cerianthidae
 /content/test_data/rois/253_666.png,Malacostraca
-/content/test_data/rois/254_667.png,Zoantharia_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/254_667.png,Zoantharia
 /content/test_data/rois/255_668.png,Scotoplanes globosa
 /content/test_data/rois/256_669.png,Holothuroidea
 /content/test_data/rois/257_670.png,Chorilia longipes
 /content/test_data/rois/257_671.png,Chorilia longipes
-/content/test_data/rois/257_672.png,Crinoidea_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/257_672.png,Crinoidea
 /content/test_data/rois/258_673.png,Microstomus pacificus
-/content/test_data/rois/259_674.png,Actiniaria_family_unknown_genus_unknown
+/content/test_data/rois/259_674.png,Actiniaria
 /content/test_data/rois/259_675.png,Liponema brevicorne
-/content/test_data/rois/260_676.png,Brisingida_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/260_676.png,Brisingida
 /content/test_data/rois/260_677.png,Decapoda
-/content/test_data/rois/261_678.png,Holothuroidea_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/261_678.png,Holothuroidea
 /content/test_data/rois/262_679.png,Malacostraca
-/content/test_data/rois/262_680.png,Actinopterygii_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/262_680.png,Actinopterygii
 /content/test_data/rois/262_681.png,Animalia
-/content/test_data/rois/262_682.png,Decapoda_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/262_683.png,Umbellula_species_unknown
+/content/test_data/rois/262_682.png,Decapoda
+/content/test_data/rois/262_683.png,Umbellula
 /content/test_data/rois/262_684.png,Holothuroidea
 /content/test_data/rois/262_685.png,Echinodermata
 /content/test_data/rois/262_686.png,Animalia
-/content/test_data/rois/262_687.png,Chordata_class_unknown
+/content/test_data/rois/262_687.png,Chordata
 /content/test_data/rois/262_688.png,Animalia
-/content/test_data/rois/262_689.png,Decapoda_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/263_690.png,Amphipoda_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/264_691.png,Lithodidae_genus_unknown_species_unknown
-/content/test_data/rois/265_692.png,Parastenella_species_unknown
-/content/test_data/rois/266_693.png,Brisingida_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/262_689.png,Decapoda
+/content/test_data/rois/263_690.png,Amphipoda
+/content/test_data/rois/264_691.png,Lithodidae
+/content/test_data/rois/265_692.png,Parastenella
+/content/test_data/rois/266_693.png,Brisingida
 /content/test_data/rois/267_694.png,Crinoidea
-/content/test_data/rois/268_695.png,Hippasteria_species_unknown
-/content/test_data/rois/269_696.png,Parastenella_species_unknown
+/content/test_data/rois/268_695.png,Hippasteria
+/content/test_data/rois/269_696.png,Parastenella
 /content/test_data/rois/270_697.png,Gersemia juliepackardae
 /content/test_data/rois/271_698.png,Holothuroidea
 /content/test_data/rois/271_699.png,Malacostraca
 /content/test_data/rois/271_700.png,Ophiuroidea
-/content/test_data/rois/271_701.png,Umbellula_species_unknown
-/content/test_data/rois/271_702.png,Chordata_class_unknown
+/content/test_data/rois/271_701.png,Umbellula
+/content/test_data/rois/271_702.png,Chordata
 /content/test_data/rois/272_703.png,Apostichopus leukothele
-/content/test_data/rois/273_704.png,Lithodidae_genus_unknown_species_unknown
+/content/test_data/rois/273_704.png,Lithodidae
 /content/test_data/rois/274_705.png,Abyssocucumis abyssorum
-/content/test_data/rois/275_706.png,Hippasteria_species_unknown
+/content/test_data/rois/275_706.png,Hippasteria
 /content/test_data/rois/276_707.png,Liponema brevicorne
 /content/test_data/rois/276_708.png,Gersemia juliepackardae
-/content/test_data/rois/276_709.png,Actinernus_species_unknown
+/content/test_data/rois/276_709.png,Actinernus
 /content/test_data/rois/276_710.png,Liponema brevicorne
-/content/test_data/rois/277_711.png,Hippasteria_species_unknown
+/content/test_data/rois/277_711.png,Hippasteria
 /content/test_data/rois/278_712.png,Scotoplanes globosa
 /content/test_data/rois/278_713.png,Scotoplanes globosa
-/content/test_data/rois/279_714.png,Isididae_genus_unknown_species_unknown
-/content/test_data/rois/280_715.png,Scleractinia_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/281_716.png,Hippasteria_species_unknown
-/content/test_data/rois/281_717.png,Asteroidea_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/279_714.png,Isididae
+/content/test_data/rois/280_715.png,Scleractinia
+/content/test_data/rois/281_716.png,Hippasteria
+/content/test_data/rois/281_717.png,Asteroidea
 /content/test_data/rois/282_718.png,Rathbunaster californicus
 /content/test_data/rois/282_719.png,Arthropoda
 /content/test_data/rois/282_720.png,Animalia
 /content/test_data/rois/282_721.png,Sebastes diploproa
 /content/test_data/rois/282_722.png,Scleralcyonacea
-/content/test_data/rois/282_723.png,Chordata_class_unknown
-/content/test_data/rois/282_724.png,Isosicyonis_species_unknown
+/content/test_data/rois/282_723.png,Chordata
+/content/test_data/rois/282_724.png,Isosicyonis
 /content/test_data/rois/282_725.png,Rathbunaster californicus
 /content/test_data/rois/283_726.png,Animalia
 /content/test_data/rois/284_727.png,Paelopatides confundens
-/content/test_data/rois/284_728.png,Actinopterygii_order_unknown_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/284_728.png,Actinopterygii
 /content/test_data/rois/284_729.png,Microstomus pacificus
-/content/test_data/rois/285_730.png,Amphipoda_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/285_730.png,Amphipoda
 /content/test_data/rois/286_731.png,Florometra serratissima
 /content/test_data/rois/286_732.png,Florometra serratissima
 /content/test_data/rois/287_733.png,Mediaster
 /content/test_data/rois/287_734.png,Rathbunaster
 /content/test_data/rois/287_735.png,Mediaster aequalis
-/content/test_data/rois/288_736.png,Mycale_species_unknown
+/content/test_data/rois/288_736.png,Mycale
 /content/test_data/rois/288_737.png,Heterochone calyx
 /content/test_data/rois/289_738.png,Sebastidae
 /content/test_data/rois/289_739.png,Mediaster aequalis
-/content/test_data/rois/290_740.png,Munnopsidae_genus_unknown_species_unknown
+/content/test_data/rois/290_740.png,Munnopsidae
 /content/test_data/rois/290_741.png,Animalia
-/content/test_data/rois/290_742.png,Animalia_phylum_unknown
+/content/test_data/rois/290_742.png,Animalia
 /content/test_data/rois/290_743.png,Rathbunaster californicus
-/content/test_data/rois/290_744.png,Decapoda_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/290_744.png,Decapoda
 /content/test_data/rois/291_745.png,Pyrosoma atlanticum
 /content/test_data/rois/291_746.png,Echinodermata
 /content/test_data/rois/291_747.png,Pyrosoma atlanticum
-/content/test_data/rois/291_748.png,Gastropoda_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/292_749.png,Lithodidae_genus_unknown_species_unknown
+/content/test_data/rois/291_748.png,Gastropoda
+/content/test_data/rois/292_749.png,Lithodidae
 /content/test_data/rois/293_750.png,Crinoidea
-/content/test_data/rois/293_751.png,Animalia_phylum_unknown_class_unknown_order_unknown_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/293_752.png,Vesicomyidae_genus_unknown_species_unknown
-/content/test_data/rois/294_753.png,Brisingida_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/293_751.png,Animalia
+/content/test_data/rois/293_752.png,Vesicomyidae
+/content/test_data/rois/294_753.png,Brisingida
 /content/test_data/rois/295_754.png,Pandalus platyceros
-/content/test_data/rois/296_755.png,Isosicyonis_species_unknown
-/content/test_data/rois/297_756.png,Decapoda_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/296_755.png,Isosicyonis
+/content/test_data/rois/297_756.png,Decapoda
 /content/test_data/rois/298_757.png,Decapoda
-/content/test_data/rois/299_758.png,Keratoisis_species_unknown
+/content/test_data/rois/299_758.png,Keratoisis
 /content/test_data/rois/300_759.png,Holothuroidea
 /content/test_data/rois/300_760.png,Psolus squamatus
 /content/test_data/rois/301_761.png,Gersemia juliepackardae
-/content/test_data/rois/302_762.png,Isididae_genus_unknown_species_unknown
-/content/test_data/rois/303_763.png,Lithodidae_genus_unknown_species_unknown
-/content/test_data/rois/304_764.png,Actiniaria_family_unknown_genus_unknown_species_unknown
-/content/test_data/rois/305_765.png,Munnopsidae_genus_unknown_species_unknown
+/content/test_data/rois/302_762.png,Isididae
+/content/test_data/rois/303_763.png,Lithodidae
+/content/test_data/rois/304_764.png,Actiniaria
+/content/test_data/rois/305_765.png,Munnopsidae
 /content/test_data/rois/306_766.png,Paelopatides confundens
 /content/test_data/rois/307_767.png,Apostichopus leukothele
-/content/test_data/rois/308_768.png,Mycale_species_unknown
-/content/test_data/rois/308_769.png,Staurocalyptus_species_unknown
+/content/test_data/rois/308_768.png,Mycale
+/content/test_data/rois/308_769.png,Staurocalyptus
 /content/test_data/rois/309_770.png,Octopus rubescens
 /content/test_data/rois/310_771.png,Scotoplanes
-/content/test_data/rois/311_772.png,Actiniaria_family_unknown_genus_unknown_species_unknown
+/content/test_data/rois/311_772.png,Actiniaria
 /content/test_data/rois/312_773.png,Psathyrometra
 /content/test_data/rois/313_774.png,Corallimorphus pilatus
 /content/test_data/rois/314_775.png,Microstomus pacificus
@@ -778,12 +778,12 @@ annotation_id,concept_name
 /content/test_data/rois/316_777.png,Chorilia longipes
 /content/test_data/rois/317_778.png,Microstomus pacificus
 /content/test_data/rois/318_779.png,Octopus rubescens
-/content/test_data/rois/319_780.png,Mycale_species_unknown
+/content/test_data/rois/319_780.png,Mycale
 /content/test_data/rois/319_781.png,Poecilosclerida
 /content/test_data/rois/319_782.png,Anthozoa
 /content/test_data/rois/320_783.png,Animalia
-/content/test_data/rois/321_784.png,Ophiacanthidae_genus_unknown_species_unknown
-/content/test_data/rois/322_785.png,Delectopecten_species_unknown
+/content/test_data/rois/321_784.png,Ophiacanthidae
+/content/test_data/rois/322_785.png,Delectopecten
 /content/test_data/rois/323_786.png,Scotoplanes
 /content/test_data/rois/324_787.png,Coralliidae
-/content/test_data/rois/325_788.png,Vesicomyidae_genus_unknown_species_unknown
+/content/test_data/rois/325_788.png,Vesicomyidae
