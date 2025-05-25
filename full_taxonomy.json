@@ -1,0 +1,792 @@
+[
+  {
+    "label": "Sebastolobus",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Teleostei",
+    "order": "Perciformes",
+    "family": "Sebastidae",
+    "genus": "Sebastolobus",
+    "species": "unknown"
+  },
+  {
+    "label": "Apostichopus leukothele",
+    "kingdom": "Animalia",
+    "phylum": "Echinodermata",
+    "class": "Holothuroidea",
+    "order": "Synallactida",
+    "family": "Stichopodidae",
+    "genus": "Apostichopus",
+    "species": "unknown"
+  },
+  {
+    "label": "Scotoplanes",
+    "kingdom": "Animalia",
+    "phylum": "Echinodermata",
+    "class": "Holothuroidea",
+    "order": "Elasipodida",
+    "family": "Elpidiidae",
+    "genus": "Scotoplanes",
+    "species": "unknown"
+  },
+  {
+    "label": "Keratoisis",
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Octocorallia",
+    "order": "Scleralcyonacea",
+    "family": "Keratoisididae",
+    "genus": "Keratoisis",
+    "species": "unknown"
+  },
+  {
+    "label": "Munnopsidae",
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Isopoda",
+    "family": "Munnopsidae",
+    "genus": "unknown",
+    "species": "unknown"
+  },
+  {
+    "label": "Scotoplanes globosa",
+    "kingdom": "Animalia",
+    "phylum": "Echinodermata",
+    "class": "Holothuroidea",
+    "order": "Elasipodida",
+    "family": "Elpidiidae",
+    "genus": "Scotoplanes",
+    "species": "unknown"
+  },
+  {
+    "label": "Chionoecetes tanneri",
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Oregoniidae",
+    "genus": "Chionoecetes",
+    "species": "unknown"
+  },
+  {
+    "label": "Hippasteria",
+    "kingdom": "Animalia",
+    "phylum": "Echinodermata",
+    "class": "Asteroidea",
+    "order": "Valvatida",
+    "family": "Goniasteridae",
+    "genus": "Hippasteria",
+    "species": "unknown"
+  },
+  {
+    "label": "Munidopsis",
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Munidopsidae",
+    "genus": "Munidopsis",
+    "species": "unknown"
+  },
+  {
+    "label": "Serpulidae",
+    "kingdom": "Animalia",
+    "phylum": "Annelida",
+    "class": "Polychaeta",
+    "order": "Sabellida",
+    "family": "Serpulidae",
+    "genus": "unknown",
+    "species": "unknown"
+  },
+  {
+    "label": "Delectopecten",
+    "kingdom": "Animalia",
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Pectinida",
+    "family": "Pectinidae",
+    "genus": "Delectopecten",
+    "species": "unknown"
+  },
+  {
+    "label": "Crinoidea",
+    "kingdom": "Animalia",
+    "phylum": "Echinodermata",
+    "class": "Crinoidea",
+    "order": "unknown",
+    "family": "unknown",
+    "genus": "unknown",
+    "species": "unknown"
+  },
+  {
+    "label": "Tunicata",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "unknown",
+    "order": "unknown",
+    "family": "unknown",
+    "genus": "unknown",
+    "species": "unknown"
+  },
+  {
+    "label": "Asteroidea",
+    "kingdom": "Animalia",
+    "phylum": "Echinodermata",
+    "class": "Asteroidea",
+    "order": "unknown",
+    "family": "unknown",
+    "genus": "unknown",
+    "species": "unknown"
+  },
+  {
+    "label": "Pandalus amplus",
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Pandalidae",
+    "genus": "Pandalus",
+    "species": "unknown"
+  },
+  {
+    "label": "Isidella tentaculum",
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Octocorallia",
+    "order": "Scleralcyonacea",
+    "family": "Keratoisididae",
+    "genus": "Isidella",
+    "species": "unknown"
+  },
+  {
+    "label": "Holothuroidea",
+    "kingdom": "Animalia",
+    "phylum": "Echinodermata",
+    "class": "Holothuroidea",
+    "order": "unknown",
+    "family": "unknown",
+    "genus": "unknown",
+    "species": "unknown"
+  },
+  {
+    "label": "Paragorgia arborea",
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Octocorallia",
+    "order": "Scleralcyonacea",
+    "family": "Coralliidae",
+    "genus": "Paragorgia",
+    "species": "unknown"
+  },
+  {
+    "label": "Heterochone calyx",
+    "kingdom": "Animalia",
+    "phylum": "Porifera",
+    "class": "Hexactinellida",
+    "order": "Sceptrulophora",
+    "family": "Aphrocallistidae",
+    "genus": "Heterochone",
+    "species": "unknown"
+  },
+  {
+    "label": "Paragorgia",
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Octocorallia",
+    "order": "Scleralcyonacea",
+    "family": "Coralliidae",
+    "genus": "Paragorgia",
+    "species": "unknown"
+  },
+  {
+    "label": "Terebellidae",
+    "kingdom": "Animalia",
+    "phylum": "Annelida",
+    "class": "Polychaeta",
+    "order": "Terebellida",
+    "family": "Terebellidae",
+    "genus": "unknown",
+    "species": "unknown"
+  },
+  {
+    "label": "Ophiuroidea",
+    "kingdom": "Animalia",
+    "phylum": "Echinodermata",
+    "class": "Ophiuroidea",
+    "order": "unknown",
+    "family": "unknown",
+    "genus": "unknown",
+    "species": "unknown"
+  },
+  {
+    "label": "Peniagone",
+    "kingdom": "Animalia",
+    "phylum": "Echinodermata",
+    "class": "Holothuroidea",
+    "order": "Elasipodida",
+    "family": "Elpidiidae",
+    "genus": "Peniagone",
+    "species": "unknown"
+  },
+  {
+    "label": "Actiniaria",
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Hexacorallia",
+    "order": "Actiniaria",
+    "family": "unknown",
+    "genus": "unknown",
+    "species": "unknown"
+  },
+  {
+    "label": "Ceriantharia",
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Hexacorallia",
+    "order": "Ceriantharia",
+    "family": "unknown",
+    "genus": "unknown",
+    "species": "unknown"
+  },
+  {
+    "label": "Isididae",
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Octocorallia",
+    "order": "Malacalcyonacea",
+    "family": "Isididae",
+    "genus": "unknown",
+    "species": "unknown"
+  },
+  {
+    "label": "Rathbunaster californicus",
+    "kingdom": "Animalia",
+    "phylum": "Echinodermata",
+    "class": "Asteroidea",
+    "order": "Forcipulatida",
+    "family": "Asteriidae",
+    "genus": "Rathbunaster",
+    "species": "unknown"
+  },
+  {
+    "label": "Paelopatides confundens",
+    "kingdom": "Animalia",
+    "phylum": "Echinodermata",
+    "class": "Holothuroidea",
+    "order": "Synallactida",
+    "family": "Synallactidae",
+    "genus": "Paelopatides",
+    "species": "unknown"
+  },
+  {
+    "label": "Abyssocucumis abyssorum",
+    "kingdom": "Animalia",
+    "phylum": "Echinodermata",
+    "class": "Holothuroidea",
+    "order": "Dendrochirotida",
+    "family": "Cucumariidae",
+    "genus": "Abyssocucumis",
+    "species": "unknown"
+  },
+  {
+    "label": "Strongylocentrotus fragilis",
+    "kingdom": "Animalia",
+    "phylum": "Echinodermata",
+    "class": "Echinoidea",
+    "order": "Camarodonta",
+    "family": "Strongylocentrotidae",
+    "genus": "Strongylocentrotus",
+    "species": "unknown"
+  },
+  {
+    "label": "Porifera",
+    "kingdom": "Animalia",
+    "phylum": "Porifera",
+    "class": "unknown",
+    "order": "unknown",
+    "family": "unknown",
+    "genus": "unknown",
+    "species": "unknown"
+  },
+  {
+    "label": "Psolus squamatus",
+    "kingdom": "Animalia",
+    "phylum": "Echinodermata",
+    "class": "Holothuroidea",
+    "order": "Dendrochirotida",
+    "family": "Psolidae",
+    "genus": "Psolus",
+    "species": "unknown"
+  },
+  {
+    "label": "Liponema brevicorne",
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Hexacorallia",
+    "order": "Actiniaria",
+    "family": "Liponematidae",
+    "genus": "Liponema",
+    "species": "unknown"
+  },
+  {
+    "label": "Farrea",
+    "kingdom": "Animalia",
+    "phylum": "Porifera",
+    "class": "Hexactinellida",
+    "order": "Sceptrulophora",
+    "family": "Farreidae",
+    "genus": "Farrea",
+    "species": "unknown"
+  },
+  {
+    "label": "Caridea",
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "unknown",
+    "genus": "unknown",
+    "species": "unknown"
+  },
+  {
+    "label": "Hexactinellida",
+    "kingdom": "Animalia",
+    "phylum": "Porifera",
+    "class": "Hexactinellida",
+    "order": "unknown",
+    "family": "unknown",
+    "genus": "unknown",
+    "species": "unknown"
+  },
+  {
+    "label": "Actinernus",
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Hexacorallia",
+    "order": "Actiniaria",
+    "family": "Actinernidae",
+    "genus": "Actinernus",
+    "species": "unknown"
+  },
+  {
+    "label": "Pannychia moseleyi",
+    "kingdom": "Animalia",
+    "phylum": "Echinodermata",
+    "class": "Holothuroidea",
+    "order": "Elasipodida",
+    "family": "Laetmogonidae",
+    "genus": "Pannychia",
+    "species": "unknown"
+  },
+  {
+    "label": "Gastropoda",
+    "kingdom": "Animalia",
+    "phylum": "Mollusca",
+    "class": "Gastropoda",
+    "order": "unknown",
+    "family": "unknown",
+    "genus": "unknown",
+    "species": "unknown"
+  },
+  {
+    "label": "Benthocodon pedunculata",
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Hydrozoa",
+    "order": "Trachymedusae",
+    "family": "Rhopalonematidae",
+    "genus": "Benthocodon",
+    "species": "unknown"
+  },
+  {
+    "label": "Octopus rubescens",
+    "kingdom": "Animalia",
+    "phylum": "Mollusca",
+    "class": "Cephalopoda",
+    "order": "Octopoda",
+    "family": "Octopodidae",
+    "genus": "Octopus",
+    "species": "unknown"
+  },
+  {
+    "label": "Microstomus pacificus",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Teleostei",
+    "order": "Pleuronectiformes",
+    "family": "Pleuronectidae",
+    "genus": "Microstomus",
+    "species": "unknown"
+  },
+  {
+    "label": "Heteropolypus ritteri",
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Octocorallia",
+    "order": "Scleralcyonacea",
+    "family": "Coralliidae",
+    "genus": "Heteropolypus",
+    "species": "unknown"
+  },
+  {
+    "label": "Parastenella",
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Octocorallia",
+    "order": "Scleralcyonacea",
+    "family": "Primnoidae",
+    "genus": "Parastenella",
+    "species": "unknown"
+  },
+  {
+    "label": "Staurocalyptus",
+    "kingdom": "Animalia",
+    "phylum": "Porifera",
+    "class": "Hexactinellida",
+    "order": "Lyssacinosida",
+    "family": "Rossellidae",
+    "genus": "Staurocalyptus",
+    "species": "unknown"
+  },
+  {
+    "label": "Hormathiidae",
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Hexacorallia",
+    "order": "Actiniaria",
+    "family": "Hormathiidae",
+    "genus": "unknown",
+    "species": "unknown"
+  },
+  {
+    "label": "Scleractinia",
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Hexacorallia",
+    "order": "Scleractinia",
+    "family": "unknown",
+    "genus": "unknown",
+    "species": "unknown"
+  },
+  {
+    "label": "Elpidia",
+    "kingdom": "Animalia",
+    "phylum": "Echinodermata",
+    "class": "Holothuroidea",
+    "order": "Elasipodida",
+    "family": "Elpidiidae",
+    "genus": "Elpidia",
+    "species": "unknown"
+  },
+  {
+    "label": "Asbestopluma",
+    "kingdom": "Animalia",
+    "phylum": "Porifera",
+    "class": "Demospongiae",
+    "order": "Poecilosclerida",
+    "family": "Cladorhizidae",
+    "genus": "Asbestopluma",
+    "species": "unknown"
+  },
+  {
+    "label": "Isosicyonis",
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Hexacorallia",
+    "order": "Actiniaria",
+    "family": "Actiniidae",
+    "genus": "Isosicyonis",
+    "species": "unknown"
+  },
+  {
+    "label": "Umbellula",
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Octocorallia",
+    "order": "Scleralcyonacea",
+    "family": "Umbellulidae",
+    "genus": "Umbellula",
+    "species": "unknown"
+  },
+  {
+    "label": "Sebastes",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Teleostei",
+    "order": "Perciformes",
+    "family": "Sebastidae",
+    "genus": "Sebastes",
+    "species": "unknown"
+  },
+  {
+    "label": "Metridium farcimen",
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Hexacorallia",
+    "order": "Actiniaria",
+    "family": "Metridiidae",
+    "genus": "Metridium",
+    "species": "unknown"
+  },
+  {
+    "label": "Merluccius productus",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Teleostei",
+    "order": "Gadiformes",
+    "family": "Merlucciidae",
+    "genus": "Merluccius",
+    "species": "unknown"
+  },
+  {
+    "label": "Funiculina",
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Octocorallia",
+    "order": "Scleralcyonacea",
+    "family": "Funiculinidae",
+    "genus": "Funiculina",
+    "species": "unknown"
+  },
+  {
+    "label": "Brisingida",
+    "kingdom": "Animalia",
+    "phylum": "Echinodermata",
+    "class": "Asteroidea",
+    "order": "Brisingida",
+    "family": "unknown",
+    "genus": "unknown",
+    "species": "unknown"
+  },
+  {
+    "label": "Pyrosoma atlanticum",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Thaliacea",
+    "order": "Pyrosomatida",
+    "family": "Pyrosomatidae",
+    "genus": "Pyrosoma",
+    "species": "unknown"
+  },
+  {
+    "label": "Acanthoptilum",
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Octocorallia",
+    "order": "Scleralcyonacea",
+    "family": "Virgulariidae",
+    "genus": "Acanthoptilum",
+    "species": "unknown"
+  },
+  {
+    "label": "Actinopterygii",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "unknown",
+    "order": "unknown",
+    "family": "unknown",
+    "genus": "unknown",
+    "species": "unknown"
+  },
+  {
+    "label": "Chorilia longipes",
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Epialtidae",
+    "genus": "Chorilia",
+    "species": "unknown"
+  },
+  {
+    "label": "Paralomis multispina",
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Lithodidae",
+    "genus": "Paralomis",
+    "species": "unknown"
+  },
+  {
+    "label": "Sebastes diploproa",
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Teleostei",
+    "order": "Perciformes",
+    "family": "Sebastidae",
+    "genus": "Sebastes",
+    "species": "unknown"
+  },
+  {
+    "label": "Mycale",
+    "kingdom": "Animalia",
+    "phylum": "Porifera",
+    "class": "Demospongiae",
+    "order": "Poecilosclerida",
+    "family": "Mycalidae",
+    "genus": "Mycale",
+    "species": "unknown"
+  },
+  {
+    "label": "Mediaster aequalis",
+    "kingdom": "Animalia",
+    "phylum": "Echinodermata",
+    "class": "Asteroidea",
+    "order": "Valvatida",
+    "family": "Goniasteridae",
+    "genus": "Mediaster",
+    "species": "unknown"
+  },
+  {
+    "label": "Asbestopluma monticola",
+    "kingdom": "Animalia",
+    "phylum": "Porifera",
+    "class": "Demospongiae",
+    "order": "Poecilosclerida",
+    "family": "Cladorhizidae",
+    "genus": "Asbestopluma",
+    "species": "unknown"
+  },
+  {
+    "label": "Acanthascinae",
+    "kingdom": "Animalia",
+    "phylum": "Porifera",
+    "class": "Hexactinellida",
+    "order": "Lyssacinosida",
+    "family": "Rossellidae",
+    "genus": "unknown",
+    "species": "unknown"
+  },
+  {
+    "label": "Florometra serratissima",
+    "kingdom": "Animalia",
+    "phylum": "Echinodermata",
+    "class": "Crinoidea",
+    "order": "Comatulida",
+    "family": "Antedonidae",
+    "genus": "Florometra",
+    "species": "unknown"
+  },
+  {
+    "label": "Psathyrometra fragilis",
+    "kingdom": "Animalia",
+    "phylum": "Echinodermata",
+    "class": "Crinoidea",
+    "order": "Comatulida",
+    "family": "Zenometridae",
+    "genus": "Psathyrometra",
+    "species": "unknown"
+  },
+  {
+    "label": "Zoantharia",
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Hexacorallia",
+    "order": "Zoantharia",
+    "family": "unknown",
+    "genus": "unknown",
+    "species": "unknown"
+  },
+  {
+    "label": "Gersemia juliepackardae",
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Octocorallia",
+    "order": "Malacalcyonacea",
+    "family": "Alcyoniidae",
+    "genus": "Gersemia",
+    "species": "unknown"
+  },
+  {
+    "label": "Pandalus platyceros",
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Pandalidae",
+    "genus": "Pandalus",
+    "species": "unknown"
+  },
+  {
+    "label": "Lithodidae",
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Lithodidae",
+    "genus": "unknown",
+    "species": "unknown"
+  },
+  {
+    "label": "Ophiacanthidae",
+    "kingdom": "Animalia",
+    "phylum": "Echinodermata",
+    "class": "Ophiuroidea",
+    "order": "Ophiacanthida",
+    "family": "Ophiacanthidae",
+    "genus": "unknown",
+    "species": "unknown"
+  },
+  {
+    "label": "Corallimorphus pilatus",
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Hexacorallia",
+    "order": "Corallimorpharia",
+    "family": "Corallimorphidae",
+    "genus": "Corallimorphus",
+    "species": "unknown"
+  },
+  {
+    "label": "Ptychogastria polaris",
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Hydrozoa",
+    "order": "Trachymedusae",
+    "family": "Ptychogastriidae",
+    "genus": "Ptychogastria",
+    "species": "unknown"
+  },
+  {
+    "label": "Amphipoda",
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Amphipoda",
+    "family": "unknown",
+    "genus": "unknown",
+    "species": "unknown"
+  },
+  {
+    "label": "Heterocarpus",
+    "kingdom": "Animalia",
+    "phylum": "Arthropoda",
+    "class": "Malacostraca",
+    "order": "Decapoda",
+    "family": "Pandalidae",
+    "genus": "Heterocarpus",
+    "species": "unknown"
+  },
+  {
+    "label": "Pennatula phosphorea",
+    "kingdom": "Animalia",
+    "phylum": "Cnidaria",
+    "class": "Octocorallia",
+    "order": "Scleralcyonacea",
+    "family": "Pennatulidae",
+    "genus": "Pennatula",
+    "species": "unknown"
+  },
+  {
+    "label": "Vesicomyidae",
+    "kingdom": "Animalia",
+    "phylum": "Mollusca",
+    "class": "Bivalvia",
+    "order": "Venerida",
+    "family": "Vesicomyidae",
+    "genus": "unknown",
+    "species": "unknown"
+  }
+]
